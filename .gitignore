@@ -1,0 +1,8 @@
+.vscode
+log/*
+build
+.dart_tool
+Library
+Logs
+Temp
+obj
